@@ -1,8 +1,9 @@
-Friday 12-05-2025
 # Clemency Grants by President Donald J. Trump (2025–Present)
+---
 title: "Clemency Grants by President Donald J. Trump (2025–Dec 5, 2025)"
 description: "Pardons and Communitations of Donald Trump's Second Term"
-PubDate: 12/5/2025
+pubDate: 2025-12-05
+---
 Source: [DOJ Office of the Pardon Attorney](https://www.justice.gov/pardon/clemency-grants-president-donald-j-trump-2025-present)
 Data Updated: December 3, 2025
 
