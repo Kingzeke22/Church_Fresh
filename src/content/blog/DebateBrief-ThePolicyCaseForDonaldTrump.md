@@ -1,3 +1,9 @@
+---
+title: "Debate Brief: The Policy Case for Donald Trump"
+description: "AI Debate Brief For Donald Trumps Policies with Sources"
+pubDate: 2025-12-05
+draft: true
+---
 # Debate Brief: The Policy Case for Donald Trump
 
 **Theme:** "Restoring Strength & Prosperity"  

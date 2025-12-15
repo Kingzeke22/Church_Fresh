@@ -1,3 +1,9 @@
+---
+title: "Debate Brief: The Policy Case for Kamala Harris"
+description: "AI Debate Brief For Kamala Harris Policies with Sources"
+pubDate: 2025-12-05
+draft: true
+---
 # Debate Brief: The Policy Case for Kamala Harris
 
 ---

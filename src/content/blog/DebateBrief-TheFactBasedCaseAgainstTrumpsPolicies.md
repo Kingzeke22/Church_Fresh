@@ -1,3 +1,9 @@
+---
+title: " Debate Brief: The Fact Based Case Against Trump's Policies"
+description: "AI Debate Brief Against Donald Trumps Policies with Sources"
+pubDate: 2025-12-05
+draft: true
+---
 # Debate Brief: The Fact Based Case Against Trump's Policies
 
 ---

@@ -1,3 +1,9 @@
+---
+title: "Trump's Promises vs. Reality (Dec 2025 Retrospective)"
+description: "AI Trump's Promises vs. Reality (Dec 2025 Retrospective) with Sources"
+pubDate: 2025-12-05
+draft: true
+---
 # Policy Analysis: Trump's Promises vs. Reality (Dec 2025 Retrospective)
 
 This document contrasts Donald Trump's 2024 campaign proposals with the actions, policy outcomes, negative consequences, and areas of stalled progress observed during his administration in 2025.
