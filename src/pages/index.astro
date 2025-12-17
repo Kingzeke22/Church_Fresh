@@ -8,7 +8,7 @@ import Posts from '../components/home/PostsSection.astro';
 import { fetchGoogleSheetData } from "../links.ts";
 const {all_links, all_categories} = await fetchGoogleSheetData();
 
-const recent_links = all_links.slice(0, 5);
+const recent_links = all_links.slice().reverse().slice(0, 5);
 ---
 
 <Base title={SITE_TITLE} description={SITE_DESCRIPTION}>
